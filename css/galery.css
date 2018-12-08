@@ -1,0 +1,74 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: #EAEDED;
+}
+
+
+
+ .oi{
+    float: right;  
+    background-color: black;
+    border: 1px solid lightblue;
+    width: 100%;
+
+ }
+
+ .fotos{
+        border: 1px solid lightblue;
+        width: 98.7%;
+        top: 740px;
+        position: absolute;
+        font-size: 25px;
+        padding: 10px;   
+        background-color: black;
+        color: white;
+        text-align: center;
+  }
+
+  .navbar {
+    font-family: comic sans ms, Helvetica, sans-serif;
+    margin-left:100px; 
+    padding:145px;
+    position: absolute;
+
+      
+}
+
+
+.navbar a 
+{
+    float: left;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    padding: 10px 30px;
+    text-decoration: none;
+
+}
+
+
+
+
+.middle{
+    float: left;
+    padding: 110px;
+    
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
